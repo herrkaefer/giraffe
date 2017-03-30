@@ -5,7 +5,7 @@ Script for Shadowsocks server setup on Ubuntu VPS
 On VPS,
 
 ```
-wget https://github.com/herrkaefer/sssetup/master/sssetup.sh
+wget https://raw.githubusercontent.com/herrkaefer/sssetup/master/sssetup.sh
 chmod +x sssetup.sh
 ```
 Edit sssetup.sh, Change password or other settings (line 16 ~ 22), then 
