@@ -13,5 +13,5 @@ Edit `sssetup.sh` using editor like nano, change password or other settings (lin
 ./sssetup.sh
 ```
 
-In the process, press any key according to the prompt, and reboot.
+In the process, press any key according to the prompt, and reboot in the end.
 
