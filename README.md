@@ -1,10 +1,12 @@
-Script for Shadowsocks server setup on Ubuntu VPS (with BBR acceleration)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAcG9QO7XhF4SvFt1T5IbZUjhWH7DBMsVQlbHxLcgu8zjenEH)
 
-(Tested on Ubuntu 16.04)
+`giraffe`: Script for Shadowsocks server setup on Ubuntu VPS (with BBR acceleration)
+
+(Tested on VPS with Ubuntu 16.04)
 
 ## How to use
 
-On VPS,
+On VPS server,
 
 ```sh
 wget https://raw.githubusercontent.com/herrkaefer/sssetup/master/sssetup.sh
