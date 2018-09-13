@@ -1,6 +1,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiAcG9QO7XhF4SvFt1T5IbZUjhWH7DBMsVQlbHxLcgu8zjenEH)
 
-`giraffe`: One command to setup a Shadowsocks server on Ubuntu VPS.
+`giraffe`: setup a Shadowsocks server with minimum operations.
 
 - BBR acceleration
 - Auto start after reboot
@@ -18,7 +18,7 @@ wget https://raw.githubusercontent.com/herrkaefer/giraffe/master/giraffe.sh
 chmod +x giraffe.sh
 ```
 
-3 : Edit `giraffe.sh` using editor like `nano`, change password or other settings (line 16 ~ 22)
+3 : Edit `giraffe.sh` using editor like `nano`, change password or other settings (line 16 ~ 22). Remember the port and password for client setting.
 
 4 :
 
